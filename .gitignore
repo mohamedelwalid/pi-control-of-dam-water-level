@@ -1,0 +1,6 @@
+*.asv
+slprj/
+*.slxc
+*.autosave
+.DS_Store
+results/*.mat
